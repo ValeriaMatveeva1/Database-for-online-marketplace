@@ -1,0 +1,25 @@
+deliveryID;deliverymanID;addressFrom;addressTo;commencementOfCarriageDate;deliveryDate;deliveryStatus
+1538992;110055;street Lenina, building 63, apartment 173;street Pushkina, building 92, apartment 96;2017.01.05;2017.01.22;delivered
+1539049;110233;street Zvezdnia, building 80, apartment 61;street Pushkina, building 92, apartment 96;2017.01.05;2017.01.26;undelivered
+1539063;110055;street Hikalova, building 20, apartment 56;street Pushkina, building 92, apartment 96;2017.01.05;2017.01.31;undelivered
+1539156;110055;street Gigalova, building 49, apartment 49;street Stalina, building 1, apartment 163;2018.11.19;2018.11.27;undelivered
+1539238;110299;street Petrova, building 7, apartment 4;street Stalina, building 1, apartment 163;2018.11.19;2018.11.30;undelivered
+1539255;110233;street Stalina, building 26, apartment 195;street Vosstania, building 44, apartment 67;2021.03.19;2021.04.07;undelivered
+1539348;110299;street Kosugina, building 49, apartment 18;street Vosstania, building 44, apartment 67;2021.03.19;2021.04.16;delivered
+1539390;110055;street Stalina, building 79, apartment 145;street Vosstania, building 44, apartment 67;2021.03.19;2021.04.09;undelivered
+1539417;110299;street Chkalova, building 69, apartment 172;street Vosstania, building 44, apartment 67;2021.03.19;2021.04.18;undelivered
+1539426;110154;street Stalina, building 9, apartment 53;street Petrova, building 4, apartment 39;2017.03.19;2017.04.01;undelivered
+1539506;110299;street Pushkina, building 36, apartment 105;street Zvezdnia, building 40, apartment 55;2022.09.31;2022.10.27;delivered
+1539544;110261;street Zvezdnia, building 43, apartment 106;street Zvezdnia, building 40, apartment 55;2022.09.31;2022.10.23;undelivered
+1539565;110154;street Chkalova, building 21, apartment 31;street Pushkina, building 57, apartment 186;2020.04.31;2020.05.31;undelivered
+1539639;110233;street Gigalova, building 18, apartment 9;street Pushkina, building 57, apartment 186;2020.04.31;2020.05.15;delivered
+1539736;110154;street Lenina, building 75, apartment 92;street Pushkina, building 57, apartment 186;2020.04.31;2020.05.23;undelivered
+1539796;110261;street Kosugina, building 61, apartment 148;street Petrova, building 4, apartment 39;2022.05.19;2022.06.02;delivered
+1539884;110299;street Kosugina, building 67, apartment 152;street Petrova, building 4, apartment 39;2022.05.19;2022.05.29;delivered
+1539966;110299;street Jucova, building 45, apartment 119;street Petrova, building 4, apartment 39;2022.05.19;2022.06.13;undelivered
+1539986;110055;street Gigalova, building 68, apartment 42;street Petrova, building 4, apartment 39;2022.05.19;2022.06.18;delivered
+1539990;110299;street Zvezdnia, building 98, apartment 120;street Pushkina, building 92, apartment 96;2020.12.14;2020.12.22;undelivered
+1540051;110154;street Zvezdnia, building 86, apartment 171;street Pushkina, building 92, apartment 96;2020.12.14;2021.01.09;delivered
+1540146;110154;street Vosstania, building 42, apartment 5;street Pushkina, building 92, apartment 96;2020.12.14;2020.12.31;delivered
+1540202;110261;street Jucova, building 16, apartment 28;street Pushkina, building 92, apartment 96;2020.12.14;2021.01.07;undelivered
+1540248;110055;street Kosugina, building 83, apartment 97;street Pushkina, building 92, apartment 96;2020.12.14;2020.12.27;undelivered

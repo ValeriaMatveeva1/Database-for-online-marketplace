@@ -1,0 +1,17 @@
+productID;sellerID;productName;pricePerUnit;discount;category;weight;producingCountry;rating;quantityOnStock;availability
+826483;19151;Wintercoat Adidas;3376;0.02;clothes;2.5;UK;3.26;82;1
+826553;19230;Washing machine Bosh;4582;0.0;appliance;2.55;USA;1.71;0;0
+826567;19252;Toy car;4683;0.08;toys;0.7;Russia;0.82;0;0
+826641;19329;Barbie;6957;0.07;toys;1.79;India;3.27;43;1
+826711;19399;Chair;2257;0.03;furniture;1.0;India;3.61;15;1
+826721;19442;Mirror;4426;0.16;furniture;0.88;Russia;0.53;51;1
+826805;19499;Wall clock;6774;0.16;furniture;2.21;China;0.78;0;0
+826842;19542;Set of Corean cosmetics;997;0.25;cosmetics;3.29;Brazilia;3.47;60;1
+826902;19634;Iphone XR;587;0.01;smartphones;1.18;India;4.69;0;0
+826981;19701;Smartwatch Xiaomi;2177;0.07;electronics;2.57;USA;4.45;31;1
+827015;19758;Wintercoat Adidas;2068;0.03;clothes;1.31;China;4.5;20;1
+827023;18923;Washing machine Bosh;6945;0.25;appliance;2.82;Brazilia;4.79;70;1
+827048;18929;Toy car;3955;0.06;toys;1.67;Brazilia;1.73;73;1
+827080;18972;Barbie;3316;0.03;toys;1.26;UK;2.74;21;1
+827157;19055;Chair;3229;0.27;furniture;0.92;Brazilia;3.32;0;0
+827170;19136;Mirror;6618;0.24;furniture;1.79;India;2.45;27;1

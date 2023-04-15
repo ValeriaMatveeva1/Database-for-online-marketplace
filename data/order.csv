@@ -1,0 +1,9 @@
+orderID;customerID;deliveryCity;deliveryAddress;createdAt;orderCost;deliveryCost;deliveryMethod;paymentMethod;totalCost;orderStatus
+457824;16841;Kirov;street Pushkina, building 92, apartment 96;2017.01.05;57277;334;self-pickup;Visa;57611;undelivered
+457864;16510;Kostroma;street Stalina, building 1, apartment 163;2018.11.19;19593;280;courier;Visa;19873;delivered
+457917;16631;Kostroma;street Vosstania, building 44, apartment 67;2021.03.19;46098;355;urgent;Visa;46453;undelivered
+457945;16717;Perm;street Petrova, building 4, apartment 39;2017.03.19;48699;761;self-pickup;ApplePay;49460;undelivered
+457965;16743;Petrozavodsk;street Zvezdnia, building 40, apartment 55;2022.09.31;23498;428;urgent;PayPal;23926;undelivered
+457999;16369;Perm;street Pushkina, building 57, apartment 186;2020.04.31;18825;151;urgent;Mastercard;18976;undelivered
+458035;16717;Perm;street Petrova, building 4, apartment 39;2022.05.19;100183;336;urgent;Visa;100519;undelivered
+458076;16841;Kirov;street Pushkina, building 92, apartment 96;2020.12.14;99974;755;urgent;Mastercard;100729;undelivered
